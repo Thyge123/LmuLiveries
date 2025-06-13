@@ -1,1 +1,1 @@
-[ LmuLiveries](https://lmuliveries.net/])
+[LmuLiveries](https://lmuliveries.net])
