@@ -55,4 +55,5 @@ This project is a modern, decoupled full-stack application.
 *   **CI/CD**: GitHub Actions for automated deployment.
 
 ---
+During the development of this project, a generative AI assistant was utilized as a tool to aid with tasks such as brainstorming, refactoring, and generating code.
 
