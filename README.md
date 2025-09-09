@@ -32,7 +32,7 @@ You can view the live, deployed version of the application here:
 
 This project is a modern, decoupled full-stack application.
 
-### Backend (`LmuLiveriesAPI`)
+### Backend
 
 *   **Framework**: .NET 8 Web API
 *   **Database**: PostgreSQL
@@ -41,7 +41,7 @@ This project is a modern, decoupled full-stack application.
 *   **File Storage**: Backblaze B2 via AWS SDK for .NET
 *   **Email**: Mailjet for reliable SMTP email delivery, triggered by Supabase auth events.
 
-### Frontend (`lmu-liveries-frontend`)
+### Frontend
 
 *   **Framework**: Nuxt 3 (Vue 3)
 *   **State Management**: Pinia
